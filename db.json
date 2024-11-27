@@ -1,0 +1,30 @@
+{
+  "clients": [],
+  "projects": [],
+  "options": [
+    {
+      "id": "lock-standard",
+      "name": "Serrure standard",
+      "category": "serrure",
+      "price": 45
+    },
+    {
+      "id": "lock-security",
+      "name": "Serrure de sécurité 3 points",
+      "category": "serrure",
+      "price": 180
+    },
+    {
+      "id": "handle-basic",
+      "name": "Poignée standard",
+      "category": "poignee",
+      "price": 25
+    },
+    {
+      "id": "handle-design",
+      "name": "Poignée design",
+      "category": "poignee",
+      "price": 75
+    }
+  ]
+}
